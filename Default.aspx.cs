@@ -13,7 +13,7 @@ public partial class _Default : System.Web.UI.Page
     }
     protected void LoginButton_Click(object sender, EventArgs e)
     {
-
+        VenueLogin();
     }
 
     protected void VenueLogin()
